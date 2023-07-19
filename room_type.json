@@ -1,0 +1,30 @@
+{"roomType" : [
+    {
+        "roomType" : "Single Room",
+        "capacity" : 1,
+        "totalRoom" : 20,
+        "emptyRoom" : 10,
+        "price" : 105.5
+    },
+    {
+        "roomType" : "Double Room",
+        "capacity" : 2,
+        "totalRoom" : 20,
+        "emptyRoom" : 4,
+        "price" : 230.5
+    },
+    {
+        "roomType" : "Twin Room",
+        "capacity" : 2,
+        "totalRoom" : 20,
+        "emptyRoom" : 0,
+        "price" : 300.0
+    },
+    {
+        "roomType" : "Family Room",
+        "capacity" : 4,
+        "totalRoom" : 20,
+        "emptyRoom" : 16,
+        "price" : 489.5
+    }
+]}
